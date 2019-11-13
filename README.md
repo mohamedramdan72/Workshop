@@ -22,6 +22,18 @@ Workshop Training Repository
 1. js
    1. jQuery
 
+
+<!-- Hosny A.Barakat -->
+## Hosny
+
+### Html
+ 	- PugJs
+### Css
+ 	- Sass
+### Js
+ 	- Jquery
+
+
 ## Huda
 * html
 * css
@@ -43,11 +55,4 @@ Workshop Training Repository
       - Vuetify
 - Git / Github
 
-<!-- Hosny A.Barakat -->
-## Hosny
-- Html
- - PugJs
-- Css
- - Sass
-- Js
- - Jquery
+
