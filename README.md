@@ -14,6 +14,8 @@ Workshop Training Repository
 * Javascript
 * Jquery
 * Bootstrap
+* Git
+* GitHub
 
 <!-- Fatma Ragab-->
 ## Fatma
