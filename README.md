@@ -25,17 +25,6 @@ Workshop Training Repository
    1. jQuery
 
 
-<!-- Hosny A.Barakat -->
-## Hosny
-
-### Html
-     - PugJs
-### Css
-     - Sass
-### Js
-     - Jquery
-
-
 ## Huda
 * html
 * css
@@ -67,6 +56,9 @@ Workshop Training Repository
 - Css
  - Sass
 - Js
+ - Js Vanilla
+ - Js Dom
+ - Js Bom
  - Jquery
 
 ## Abd Elrahman Abo Zied
