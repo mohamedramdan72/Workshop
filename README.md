@@ -14,6 +14,8 @@ Workshop Training Repository
 * Javascript
 * Jquery
 * Bootstrap
+* Git 
+* GitHub
 
 <!-- Fatma Ragab-->
 ## Fatma
@@ -27,11 +29,11 @@ Workshop Training Repository
 ## Hosny
 
 ### Html
- 	- PugJs
+     - PugJs
 ### Css
- 	- Sass
+     - Sass
 ### Js
- 	- Jquery
+     - Jquery
 
 
 ## Huda
@@ -55,4 +57,26 @@ Workshop Training Repository
       - Vuetify
 - Git / Github
 
+<<<<<<< HEAD
 
+=======
+<!-- Hosny A.Barakat -->
+## Hosny
+- Html
+ - PugJs
+- Css
+ - Sass
+- Js
+ - Jquery
+
+## Abd Elrahman Abo Zied
+1. HTML
+1. CSS
+1. Bootstrap
+1. Sass
+1. Pug
+
+## Mostafa AboBakr
+* Html
+* Html5
+>>>>>>> 73f7efb900888d37a6830aafff54d81deefb0735
