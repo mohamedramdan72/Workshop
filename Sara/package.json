@@ -16,5 +16,20 @@
   "bugs": {
     "url": "https://github.com/SaraKassem/Workshop/issues"
   },
-  "homepage": "https://github.com/SaraKassem/Workshop#readme"
+  "homepage": "https://github.com/SaraKassem/Workshop#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "pug": "^2.0.4",
+    "pug-cli": "^1.0.0-alpha6",
+    "static-server": "^2.2.1"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^4.0.2",
+    "gulp-minify": "^3.1.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-wait": "0.0.2"
+  }
 }
