@@ -3,7 +3,11 @@ body {
     color: #012457;
 }
 
+.header {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
 h1 {
     font-weight: bolder;
-    margin: auto;
 }
