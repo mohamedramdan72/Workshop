@@ -12,10 +12,12 @@ Workshop Training Repository
 * HTML
 * CSS
 * Javascript
+   *Js Dom
 * Jquery
 * Bootstrap
 * Git 
 * GitHub
+
 
 <!-- Fatma Ragab-->
 ## Fatma
