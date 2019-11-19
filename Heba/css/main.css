@@ -1,6 +1,5 @@
 body {
     background-color: aliceblue;
-    color: #012457;
 }
 
 .header {
@@ -10,4 +9,9 @@ body {
 }
 h1 {
     font-weight: bolder;
+    color: #012457;
+}
+
+h2 {
+    color: brown;
 }
