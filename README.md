@@ -33,6 +33,7 @@ Workshop Training Repository
 * javascript
 * sass
 * bug
+* git
 
 ## Mohamed Ewis
 - HTML
