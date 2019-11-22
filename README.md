@@ -12,10 +12,12 @@ Workshop Training Repository
 * HTML
 * CSS
 * Javascript
+   * Js Dom
 * Jquery
 * Bootstrap
 * Git 
 * GitHub
+
 
 <!-- Fatma Ragab-->
 ## Fatma
@@ -24,12 +26,14 @@ Workshop Training Repository
 1. js
    1. jQuery
 
+
 ## Huda
 * html
 * css
 * javascript
 * sass
 * bug
+* git
 
 ## Mohamed Ewis
 - HTML
@@ -45,6 +49,9 @@ Workshop Training Repository
       - Vuetify
 - Git / Github
 
+<<<<<<< HEAD
+
+=======
 <!-- Hosny A.Barakat -->
 ## Hosny
 - Html
@@ -52,6 +59,9 @@ Workshop Training Repository
 - Css
  - Sass
 - Js
+ - Js Vanilla
+ - Js Dom
+ - Js Bom
  - Jquery
 
 ## Abd Elrahman Abo Zied
@@ -64,3 +74,4 @@ Workshop Training Repository
 ## Mostafa AboBakr
 * Html
 * Html5
+>>>>>>> 73f7efb900888d37a6830aafff54d81deefb0735
