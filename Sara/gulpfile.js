@@ -28,7 +28,7 @@ gulp.task('HTML5', function () {
 //  CSS Task
 gulp.task('CSS3', function () {
 
-    return gulp.src(['develop/css/**/*.scss', 'develop/css/**/*.css'])
+    return gulp.src(['develop/css/**/*.css', 'develop/css/**/*.scss'])
         .pipe(wait(500))
         .pipe(sass({outputStyle: 'compressed'})).on('error', sass.logError)
         .pipe(autoprefixer('last 2 versions'))
