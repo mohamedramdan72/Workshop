@@ -13,6 +13,7 @@ Workshop Training Repository
 * CSS
 * Javascript
    * Js Dom
+   * Js Bom
 * Jquery
 * Bootstrap
 * Git 
