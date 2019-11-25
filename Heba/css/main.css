@@ -1,1 +1,24 @@
-
+/* start main rules */
+body{ 
+    direction: rtl;
+    background-color: #DDD;
+    font-family: 'Changa', sans-serif;
+    }
+    
+    .container{
+    width: 940px;
+    margin: 20px auto;
+    background-color: #FFF;
+    } 
+    
+    ul,ol{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    }
+    
+    a {text-decoration: none;}
+    
+    .active{color:blue;}
+    
+    /* end main rules */
