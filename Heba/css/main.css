@@ -5,20 +5,55 @@ body{
     font-family: 'Changa', sans-serif;
     }
     
-    .container{
-    width: 940px;
-    margin: 20px auto;
-    background-color: #FFF;
-    } 
-    
-    ul,ol{
-    margin: 0;
-    padding: 0;
-    list-style: none;
+.container{
+width: 940px;
+margin: 20px auto;
+background-color: #FFF;
+} 
+
+ul,ol{
+margin: 0;
+padding: 0;
+list-style: none;
+}
+
+a {text-decoration: none;}
+
+.active{color:blue;}
+
+/* end main rules */
+
+/*start header */
+header{ 
+    min-height: 100px;
+    background-color: #F6F6F6;
+    overflow: hidden; /* hidden overflow because of float*/
     }
     
-    a {text-decoration: none;}
+    header .logo{ 
+    width :20%;
+    float: right;
+    }
     
-    .active{color:blue;}
+    header .logo img{ 
+    width: 100px; 
+    margin:10px 10px 10px 0;
+    }
     
-    /* end main rules */
+    header nav{ 
+    width: 80%;	
+    float: left;
+    } 
+    
+    header nav ul{ 
+    margin: 40px 40px 0 0;
+    font-weight: bold;
+    font-size:18px;
+    }	    
+    
+    header nav ul li{ 
+    display : inline-block;
+    padding: 10px;	
+    margin: 5px; 
+    text-decoration: none;
+    } /* end header */
