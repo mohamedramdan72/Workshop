@@ -56,4 +56,50 @@ header{
     padding: 10px;	
     margin: 5px; 
     text-decoration: none;
-    } /* end header */
+    } 
+    /* end header */
+
+    /* start content */
+.content {  
+    min-height: 500px;
+    background-color: #BBB;
+    overflow: hidden; 
+    } 
+    
+    /* start sidebar */
+    .content .sidebar {  
+    float: right;
+    width: 25%;
+    margin-left: 1%;
+    }
+    
+    .content .sidebar .widget{  
+    text-align: center;
+    width: 90%;
+    margin: 10px auto;
+    background-color: #FFF;
+    border: 1px solid #ccc;
+    } 
+    
+    .content .sidebar .widget .title{
+    background-color:#222;
+    color:#FFF;
+    padding:5px;
+    font-size:12px;
+    }
+    
+    
+    .content .sidebar .widget .data img{
+    max-width: 90%;
+    height: 250px;
+    padding:10px;
+    }
+    
+    
+    .content .sidebar .widget .data  ul{padding: 10px;}
+    
+    .content .sidebar .widget .data  ul li{
+    padding:3px 10px 0 0;
+    text-align: right;
+    }
+    /* end sidebar */
