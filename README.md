@@ -87,3 +87,12 @@ Workshop Training Repository
   - jQuery
   - Gulp.js
   - Vue.js
+  
+  <!-- Kholoud Mohamed -->
+  ## Kholoud Mohamed 
+  - HTML
+    - Pug.js
+  - CSS
+    - Sass
+  - JS
+  - Gulp.js
